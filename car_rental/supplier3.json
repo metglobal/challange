@@ -1,0 +1,136 @@
+{
+	"company": "FLYING CARS",
+	"destination": "Istanbul",
+	"currency": "EUR",
+	"insurance_fee_per_day": 12,
+	"navigation_fee_per_day": 29,
+	"result_set": [{
+		"identifier": "1",
+		"vehicle": {
+			"fuel": "diesel",
+			"auto_transmission": 1,
+			"brand": "Renault",
+			"model": "Fluence",
+			"is_basic": 1,
+			"max_passengers": 5
+		},
+		"total_price": "16.00",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2016-02-01",
+			"to": "2019-12-20"
+		}
+	}, {
+		"identifier": "2",
+		"vehicle": {
+			"fuel": "diesel",
+			"auto_transmission": 1,
+			"brand": "Renault",
+			"model": "Fluence",
+			"is_basic": 1,
+			"max_passengers": 5
+		},
+		"total_price": "15.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2015-02-01",
+			"to": "2019-12-20"
+		}
+	}, {
+		"identifier": "3",
+		"vehicle": {
+			"fuel": "benzine",
+			"auto_transmission": 1,
+			"brand": "Seat",
+			"model": "Leon",
+			"is_basic": 0,
+			"max_passengers": 5
+		},
+		"total_price": "35.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2018-12-01",
+			"to": "2019-12-20"
+		}
+	}, {
+		"identifier": "4",
+		"vehicle": {
+			"fuel": "benzine",
+			"auto_transmission": 1,
+			"brand": "Volvo",
+			"model": "S40",
+			"is_basic": 0,
+			"max_passengers": 5
+		},
+		"total_price": "49.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2017-02-01",
+			"to": "2019-12-20"
+		}
+	}, {
+		"identifier": "5",
+		"vehicle": {
+			"fuel": "diesel",
+			"auto_transmission": 1,
+			"brand": "Volvo",
+			"model": "S60",
+			"is_basic": 0,
+			"max_passengers": 5
+		},
+		"total_price": "69.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2017-01-01",
+			"to": "2019-12-05"
+		}
+	}, {
+		"identifier": "6",
+		"vehicle": {
+			"fuel": "diesel",
+			"auto_transmission": 1,
+			"brand": "Volvo",
+			"model": "S60",
+			"is_basic": 0,
+			"max_passengers": 5
+		},
+		"total_price": "69.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2017-01-01",
+			"to": "2019-12-05"
+		}
+	}, {
+		"identifier": "7",
+		"vehicle": {
+			"fuel": "benzine",
+			"auto_transmission": 1,
+			"brand": "BMW",
+			"model": "i8",
+			"is_basic": 0,
+			"max_passengers": 5
+		},
+		"total_price": "169.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2017-01-01",
+			"to": "2019-12-05"
+		}
+	}, {
+		"identifier": "8",
+		"vehicle": {
+			"fuel": "battery",
+			"auto_transmission": 1,
+			"brand": "Tesla",
+			"model": "Model S",
+			"is_basic": 0,
+			"max_passengers": 5
+		},
+		"total_price": "299.90",
+		"currency": "EUR",
+		"available_dates": {
+			"from": "2017-01-01",
+			"to": "2019-12-05"
+		}
+	}]
+}

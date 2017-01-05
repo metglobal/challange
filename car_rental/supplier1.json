@@ -1,0 +1,99 @@
+{
+  "data": [{
+    "destination_code": "istanbul",
+    "company_code": "BESTCARS",
+    "extra_fees": [{
+      "insurance": {
+        "type": "daily",
+        "amount": 9.5,
+        "currency": "EUR"
+      },
+      "navigation": {
+        "type": "total",
+        "amount": 14,
+        "currency": "EUR"
+      }
+    }],
+    "products": [{
+      "id": "b097416322-d321-11e6-bf26-cec0c932ce01",
+      "car": {
+        "fuel_type": "diesel",
+        "transmission": "automatic",
+        "brand": "Honda",
+        "model": "CRV",
+        "package": "premium",
+        "max_passengers": 5
+      },
+      "price": "120.00",
+      "currency": "EUR",
+      "available_date_range": {
+        "from": "2017-01-01",
+        "to": "2017-12-30"
+      }
+    }, {
+      "id": "590a48b2-d322-11e6-b33f26-cec0c932ce01",
+      "car": {
+        "fuel_type": "benzine",
+        "transmission": "manuel",
+        "brand": "Fiat",
+        "model": "500",
+        "package": "basic",
+        "max_passengers": 4
+      },
+      "price": "90.00",
+      "currency": "EUR",
+      "available_date_range": {
+        "from": "2017-12-01",
+        "to": "2017-12-30"
+      }
+    }, {
+      "id": "9053bade32-d333-11e6-bf26-cec0c932ce01",
+      "car": {
+        "fuel_type": "diesel",
+        "transmission": "manuel",
+        "brand": "Wolkswagen",
+        "model": "Transporter",
+        "package": "premium",
+        "max_passengers": 9
+      },
+      "price": "190.00",
+      "currency": "EUR",
+      "available_date_range": {
+        "from": "2017-02-01",
+        "to": "2017-04-30"
+      }
+    }, {
+      "id": "9e2fdb44-d333-11asdsd1e6-bf26-cec0c932ce01",
+      "car": {
+        "fuel_type": "benzine",
+        "transmission": "manuel",
+        "brand": "Tofas",
+        "model": "Sahin",
+        "package": "basic",
+        "max_passengers": 5
+      },
+      "price": "10.00",
+      "currency": "EUR",
+      "available_date_range": {
+        "from": "2017-02-01",
+        "to": "2017-05-30"
+      }
+    }, {
+      "id": "9ab5d658-d333-11e116-bf26-cec0c932ce01",
+      "car": {
+        "fuel_type": "diesel",
+        "transmission": "manuel",
+        "brand": "Renault",
+        "model": "Fluence",
+        "package": "basic",
+        "max_passengers": 5
+      },
+      "price": "49.40",
+      "currency": "EUR",
+      "available_date_range": {
+        "from": "2017-01-01",
+        "to": "2019-05-30"
+      }
+    }]
+  }]
+}

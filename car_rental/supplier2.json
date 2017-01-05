@@ -1,0 +1,96 @@
+{
+	"data": {
+		"company_code": "METGLOBALCARS",
+		"city_code": "IST",
+		"additional_fees": {
+			"navigation": {
+				"type": "total",
+				"amount": 15,
+				"currency": "EUR"
+			}
+		},
+		"cars": [{
+			"id": "9123e2fdb44-d333-11e1236-bf26-123aqqa",
+			"car": {
+				"fuel_type": "diesel",
+				"transmission_type": "manuel",
+				"brand_name": "Renault",
+				"model_name": "Fluence",
+				"is_premium": 0,
+				"max_passengers": 5
+			},
+			"total_amount": "26.00",
+			"currency": "EUR",
+			"available_time_frame": {
+				"from": "2017-01-01",
+				"to": "2018-12-20"
+			}
+		}, {
+			"id": "9123e2fdb44-d3asd33-11e6-bf26-12sd3aa",
+			"car": {
+				"fuel_type": "diesel",
+				"transmission_type": "manuel",
+				"brand_name": "Toyota",
+				"model_name": "Corolla",
+				"is_premium": 0,
+				"max_passengers": 5
+			},
+			"total_amount": "33.00",
+			"currency": "EUR",
+			"available_time_frame": {
+				"from": "2017-02-01",
+				"to": "2017-12-20"
+			}
+		}, {
+			"id": "9123e2123fdb44-d333-11e6-bf1126-1223aa",
+			"car": {
+				"fuel_type": "diesel",
+				"transmission_type": "manuel",
+				"brand_name": "Wolkswagen",
+				"model_name": "Golf",
+				"is_premium": 1,
+				"max_passengers": 5
+			},
+			"total_amount": "26.00",
+			"currency": "EUR",
+			"available_time_frame": {
+				"from": "2017-01-01",
+				"to": "2018-12-20"
+			}
+		}, {
+			"id": "912ssds3e2fdb44-d333-11e6-bfasd26-12333aa",
+			"car": {
+				"fuel_type": "diesel",
+				"transmission_type": "manuel",
+				"brand_name": "Renault",
+				"model_name": "Fluence",
+				"is_premium": 0,
+				"max_passengers": 5
+			},
+			"total_amount": "26.00",
+			"currency": "EUR",
+			"available_time_frame": {
+				"from": "2017-01-01",
+				"to": "2018-12-20"
+			}
+		},
+		{
+			"id": "912ssds3e2fdb44-d333-11e6-bfasd26-12333aa",
+			"car": {
+				"fuel_type": "battery",
+				"transmission_type": "automatic",
+				"brand_name": "Tesla",
+				"model_name": "Model S",
+				"is_premium": 0,
+				"max_passengers": 5
+			},
+			"total_amount": "26.00",
+			"currency": "EUR",
+			"available_time_frame": {
+				"from": "2017-01-01",
+				"to": "2018-12-20"
+			}
+		}
+	]
+	}
+}
